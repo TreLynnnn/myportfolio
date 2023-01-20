@@ -73,6 +73,9 @@ input, select, textarea {
 }
 
 /* Basic */
+	#headshot{
+		size: 150vh;
+	}
 
 	html {
 		box-sizing: border-box;
